@@ -13,7 +13,7 @@
         }
       },
       "commerce-b2b-enabled": false,
-      "commerce-companies-enabled": true,
+      "commerce-companies-enabled": false,
       "commerce-assets-enabled": false,
       "adobe-commerce-optimizer": false,
       "analytics": {
